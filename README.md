@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Name: Damsara<br>Age: 19<br>Hobbies: Coding, Watching anime & reading books<br>Academic Pursuit: Majoring in Cyber Security and Software Engineering</p>
+<p align="left">Name: Damsara<br>Age: 18<br>Hobbies: Coding, Watching anime & reading books<br>Academic Pursuit: Majoring in Cyber Security and Software Engineering</p>
 
 ###
 
